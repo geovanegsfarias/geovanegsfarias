@@ -18,9 +18,8 @@
 ### 🚀 Sobre mim
 
 **`Estudante de Engenharia de Computação, formado como Técnico em Informática para Internet`**
-- <p><strong>Focado em:</strong> Python e JavaScript</p>
+- <p><strong>Focado em:</strong> Java</p>
 - <p><strong>Habilidades:</strong> PostgreSQL, back-end & front-end</p>
-- <p><strong>Buscando:</strong> Aprimorar habilidades para desenvolvimento web</p>
 
 
 ---
@@ -28,7 +27,7 @@
 ### 🤖 Tecnologias e Ferramentas
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="py logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -40,7 +39,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
 </div>
 
 ---

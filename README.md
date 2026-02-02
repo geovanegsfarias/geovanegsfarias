@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é Geovane e atualmente curso o 2º semestre de Engenharia de Computação.</p>
+<p align="left">Olá, meu nome é Geovane. Sou desenvolvedor back-end e atualmente curso o 3º semestre de Engenharia de Computação.</p>
 
 ###
 
@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/geovane-gomesf/" target="_blank">
+  <a href="https://www.linkedin.com/in/geovanegsfarias/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
 </div>
